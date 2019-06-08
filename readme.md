@@ -15,3 +15,6 @@ como se observa se indica el nombre del archivo .py, el archivo de nodos, el arc
 ## Análisis de resultados
 
 En el archivo de IPython Notebook se encuentran los experimentos realizados, los resultados y conclusiones. Este archivo puede ser visto desde GitHub.
+
+Enlace:
+https://github.com/znxelox/Dijkstra_algorithm_Python/blob/master/Dijkstra_Algorithm.ipynb
