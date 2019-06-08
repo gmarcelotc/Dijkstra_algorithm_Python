@@ -4,7 +4,7 @@ Implementación algoritmos Dijkstra y Dial Dijkstra
 
 ## Ejecución
 
-Para poder ejecutar al programa se debe ejecutar por consola como en el gisuiente ejemplo:
+Para poder ejecutar al programa se debe ejecutar por consola como en el siguiente ejemplo:
 
 ```bash
 dijkstra_alg.py nodos.txt arcos.txt 0
