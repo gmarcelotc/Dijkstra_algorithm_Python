@@ -186,6 +186,3 @@ output_filename = "salida_"+str(source_node)
 writeResults(g,normal_dijkstra,output_filename+"_original.txt",0)
 writeResults(g,dial_dijkstra,output_filename+"_dial.txt",0)
 
-
-#absdvjhasbdhjsabhjdabcomentario
-
